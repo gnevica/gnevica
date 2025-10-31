@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Nevica Gupta, a 2nd year student at IGDTUW pursuing Computer Sciences with Artificial Intelligence. I have a keen interest in AI, ML and software development and am passionate about leveraging technology to solve real-world problems. I am open to working on challenging projects that will motivate me to hone my tech skills. I enjoy exploring latest advancements, trends and innovations in the tech industry.
 <!--
-**riya22410/riya22410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gnevica/gnevica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -37,11 +37,6 @@ Here are some ideas to get you started:
 ![MS OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![CANVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-
-<!--## GitHub Stats
-<!-- ![demo](https://github-readme-stats.vercel.app/api/top-langs/?username={riya22410}&theme=blue-green)
-![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riya22410&show_icons=true&theme=radical)-->
 
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnevica&theme=radical)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
