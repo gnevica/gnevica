@@ -1,4 +1,4 @@
-
+### Hi there 👋
 I am Nevica Gupta, a 2nd year student at IGDTUW pursuing Computer Sciences with Artificial Intelligence. I have a keen interest in AI, ML and software development and am passionate about leveraging technology to solve real-world problems. I am open to working on challenging projects that will motivate me to hone my tech skills. I enjoy exploring latest advancements, trends and innovations in the tech industry.
 <!--
 **riya22410/riya22410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riya22410&show_icons=true&theme=radical)-->
 
 ## GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=gneviuca&theme=dark&date_format=M%20j%5B%2C%20Y%5D)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnevica)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnevica&layout=compact&theme=radical)
