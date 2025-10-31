@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=riya22410&show_icons=true&theme=radical)-->
 
 ## GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnevica)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnevica&theme=radical)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnevica&layout=compact&theme=radical)
