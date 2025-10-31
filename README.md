@@ -1,4 +1,4 @@
-### Hi there 👋
+
 I am Nevica Gupta, a 2nd year student at IGDTUW pursuing Computer Sciences with Artificial Intelligence. I have a keen interest in AI, ML and software development and am passionate about leveraging technology to solve real-world problems. I am open to working on challenging projects that will motivate me to hone my tech skills. I enjoy exploring latest advancements, trends and innovations in the tech industry.
 <!--
 **gnevica/gnevica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
